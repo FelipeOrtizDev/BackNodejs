@@ -29,21 +29,15 @@ Clone o repositório.
 
 Instale as dependências
 
-bash
-Copy code
-npm install
+bash Copy code npm install
 
 Execute o projeto
 
-bash
-Copy code
-npm run dev
+bash Copy code npm run dev
 
 Acesse o projeto
 
-arduino
-Copy code
-http://0.0.0.0:3000/user
+arduino Copy code http://0.0.0.0:3000/user
 
 Endpoints
 
