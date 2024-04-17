@@ -1,14 +1,14 @@
-<h1>Apresentação</h1> 🚀 
+<h1>Apresentação 🚀 </h1> 
 
 Olá, meu nome é Felipe Ortiz e fui o responsável por este projeto. Neste documento, serão apresentadas as ideias por trás do projeto e algumas explicações úteis e dicas para ajudar programadores iniciantes.
 
-<h2>Motivação</h2> 🚀
+<h2>Motivação 🚀</h2> 
 
 Esta estrutura básica de CRUD de usuário foi criada com o intuito de ser um modelo para projetos escaláveis no futuro. A partir dela, é um bom começo para qualquer estrutura de backend de usuário.
 
 No futuro, tenho a intenção de atualizar este projeto e torná-lo mais robusto.
 
-<h2>Estrutura</h2> 🚀
+<h2>Estrutura 🚀</h2> 
 
 A estruturação foi feita utilizando o framework fastify.js e o banco de dados MongoDB.
 
