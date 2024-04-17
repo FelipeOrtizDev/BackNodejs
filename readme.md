@@ -20,7 +20,7 @@ Node.js
 Fastify.js
 MongoDB
 
-<h2> ⚙️ Executando o projeto<h2/>
+<h2> Executando o projeto<h2/>
 
 Para iniciar, siga os passos abaixo:
 
