@@ -1,0 +1,33 @@
+POST http://0.0.0.0:3000/user
+Content-Type: application/json
+
+{   
+   "name" : "Pele",
+   "email" : "pele@gmail.com",
+   "password" : "pele123"
+   
+}
+
+###
+
+Get http://0.0.0.0:3000/user
+
+###
+
+Get http://0.0.0.0:3000/user/661f43fb9757a48042a54855
+
+###
+
+PUT http://0.0.0.0:3000/user/661f43fb9757a48042a54855
+Content-Type: application/json
+
+{   
+    
+    "name": "valdemir",
+    "email": "cat@email.com",
+    "password": "catdrama"
+    
+}
+
+### 
+DELETE  http://0.0.0.0:3000/user/661f43fb9757a48042a54855
